@@ -1,10 +1,10 @@
 {
-  "name": "tugas-presentasi-sunda-85",
+  "name": "tugas-0presentasi-sunda-85",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "predeploy": "parcel build index.html",
+    "predeploy": "parcel build index.html --public-url ./",
     "deploy-pages": "gh-pages -d dist"
   },
   "keywords": [],
