@@ -1,0 +1,19 @@
+{
+  "name": "tugas-presentasi-sunda-85",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "predeploy": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "webslides": "^1.5.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
