@@ -15,7 +15,7 @@
     "webslides": "^1.5.0"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^6.0.1",
     "gh-pages": "^2.2.0"
   },
   "homepage": "https://EzraKhairanPermana.github.io/pp-sunda-85-web"
